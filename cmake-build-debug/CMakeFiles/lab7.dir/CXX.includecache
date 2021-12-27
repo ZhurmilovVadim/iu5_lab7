@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vadim/CLionProjects/lab7/header.h
+fstream
+-
+iostream
+/home/vadim/CLionProjects/lab7/iostream
+
+/home/vadim/CLionProjects/lab7/main.cpp
+header.h
+/home/vadim/CLionProjects/lab7/header.h
+

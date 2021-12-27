@@ -1,0 +1,1 @@
+/bin/g++ -g CMakeFiles/lab7.dir/main.cpp.o CMakeFiles/lab7.dir/functions.cpp.o CMakeFiles/lab7.dir/test.cpp.o -o lab7 
